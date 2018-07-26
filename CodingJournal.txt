@@ -1,0 +1,15 @@
+Valuables
+- int: simply numbers. no decimal or anything complicated.
+- decimal: decimal numbers.
+- float: large (small values) decimal.
+- double: larger (smaller values) decimal.
+- char: single characters like "A", "!".
+- string: collection of characters.
+- boolean: true or false.
+
+Console.Write();
+- output without changing the line
+
+Console.WriteLine();
+- output on a new line.
+- string value (strings between "") or value name goes into brackets.

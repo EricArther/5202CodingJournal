@@ -13,3 +13,17 @@ Console.Write();
 Console.WriteLine();
 - output on a new line.
 - string value (strings between "") or value name goes into brackets.
+
+
+--git hub--
+cd
+- go to file
+
+git add .
+- adds everything(?)
+
+git commit -m "(comment)"
+- commits to the local repository
+
+git push origin master
+- commit to the remote repository

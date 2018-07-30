@@ -1,11 +1,15 @@
 Valuables
 - int: simply numbers. no decimal or anything complicated.
 - decimal: decimal numbers.
-- float: large (small values) decimal.
-- double: larger (smaller values) decimal.
+- double: smalle decimals.
+- float: smaller decimals.
 - char: single characters like "A", "!".
 - string: collection of characters.
 - boolean: true or false.
+
+=
+- used when initialising the value
+- e.g. string text = "This is a text"
 
 Console.Write();
 - output without changing the line
@@ -14,10 +18,66 @@ Console.WriteLine();
 - output on a new line.
 - string value (strings between "") or value name goes into brackets.
 
+Console.ReadLine();
+- Reads a input from the user. Works as a string value.
+
+Convert.ToInt32();
+- converts a value into int. 32 means 32 bits.
+
+[ValueType].Parse();
+- converts a value into whatever the value type specified.
+
++
+- addition
+
+-
+- subtraction
+
+/
+- division
+
+*
+- multiplication
+
+%
+- modulus (leftover)
+
+!
+- not
+
+==
+- equal
+
+!=
+- not equal
+
+>
+- left is bigger than right
+
+>=
+- left is begger than or equal to right
+
+&&
+- and
+
+||
+- or
+
++=, -=, /=, *=
+- left = left [+-/*] right
+
+
+
+
+
+
 
 --git hub--
 cd
 - go to file
+
+git clone
+- clone repos
 
 git add .
 - adds everything(?)

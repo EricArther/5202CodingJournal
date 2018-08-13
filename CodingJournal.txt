@@ -72,7 +72,8 @@ if()
 else
 - sets the action for when condition in if statement weren't met
 
-
+switch / case
+- 
 
 
 

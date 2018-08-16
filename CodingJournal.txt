@@ -73,9 +73,20 @@ else
 - sets the action for when condition in if statement weren't met
 
 switch / case
-- 
+- if statement for one valuable(?)
 
+for(statement1; statement2; statement3)
+- loop
+- statement1 will be executed before the loop starts
+- statement2 is the condition for the loop
+- statement3 will be executed at the end of each run.
 
+while()
+- loop
+- the statement inside bbrackets is the condition.
+
+do while()
+- executes the code at least once then check the condition.
 
 --git hub--
 cd

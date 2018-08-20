@@ -8,11 +8,11 @@ Valuables
 - boolean: true or false.
 
 =
-- used when initialising the value
-- e.g. string text = "This is a text"
+- used when initialising the value.
+- e.g. string text = "This is a text".
 
 Console.Write();
-- output without changing the line
+- output without changing the line.
 
 Console.WriteLine();
 - output on a new line.
@@ -67,28 +67,36 @@ Convert.ToInt32();
 - left = left [+-/*] right
 
 if()
-- check the condition inside the brackets
+- checks the condition inside the brackets.
+- executes the code if the condition is met.
 
 else
-- sets the action for when condition in if statement weren't met
+- sets the action for when condition in if statement weren't met.
 
-switch / case
-- if statement for one valuable(?)
+switch(){case}
+- a variable will be tested for equality against a list of values.
 
 for(statement1; statement2; statement3)
 - loop
-- statement1 will be executed before the loop starts
-- statement2 is the condition for the loop
+- statement1 will be executed before the loop starts.
+- statement2 is the condition for the loop.
 - statement3 will be executed at the end of each run.
 
 while()
 - loop
 - the statement inside bbrackets is the condition.
 
-do while()
+do{} while()
+- while loop.
 - executes the code at least once then check the condition.
 
---git hub--
+
+
+
+
+
+
+-----git hub-----
 cd
 - go to file
 

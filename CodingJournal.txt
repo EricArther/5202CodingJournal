@@ -90,7 +90,9 @@ do{} while()
 - while loop.
 - executes the code at least once then check the condition.
 
-
+[]
+- putting this after valuable creates array.
+- e.g. int[] intArray = new int[];
 
 
 

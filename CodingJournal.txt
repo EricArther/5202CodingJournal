@@ -94,9 +94,26 @@ do{} while()
 - putting this after valuable creates array.
 - e.g. int[] intArray = new int[];
 
+method
+- <Access Modifier> <Return Type> <Method Name> (Parameters){}
 
+static
+- data will be stored in static RAM.
+- have an access to it straight away.
 
+public
+- accessble everywhere
 
+private
+- only valid inside the method or class.
+
+void
+- means it doesn't return anything.
+- no veluable.
+
+return
+- method have to return something unless void is applied.
+- e.g, if return type is int, it has to return int value.
 
 -----git hub-----
 cd
